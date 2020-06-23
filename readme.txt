@@ -1,7 +1,7 @@
 === Trend News ===
 
-Contributors: automattic
-Tags: blog, news, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, footer-widgets, theme-options, threaded-commentsthreaded-comments, translation-ready
+Contributors: wpnewstheme
+Tags: blog, news, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, footer-widgets, theme-options,threaded-comments, translation-ready
 
 Requires at least: 4.5
 Tested up to: 5.4
@@ -10,11 +10,9 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called trend news.
-
 == Description ==
 
-Description
+Trendnews is a super clean, elegant and up to date (Following the new trends in design) WordPress theme. Trendnews integrated with many plugins with lots of features, custom widgets, unlimited color schemes, Mega Menu  and more. Trendnews would be a perfect choice for any news, newspaper, magazine and blog publishing websites. fork me on Github: https://github.com/wpnewstheme/Trend-News View Demo : https://wpnewstheme.com/demos/trendnews/ 
 
 == Installation ==
 
@@ -30,7 +28,7 @@ wp news includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0.0 - June 23 2020 =
 * Initial release
 
 == Credits ==

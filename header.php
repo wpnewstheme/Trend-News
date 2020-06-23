@@ -172,7 +172,7 @@
 						<!-- Main Menu -->
 						  <nav id="site-navigation" class="navbar navbar-expand-lg main-navigation">
 				            <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'trend-news' ); ?></button>
-				            <?php
+				                <?php
 				            if ( has_nav_menu( 'primary' ) ) :
 				            wp_nav_menu(
 				              array(
@@ -185,6 +185,16 @@
 				                'walker'            => new Trend_News_Navwalker(),
 				              )
 				            );
+				            else:?>
+				            	<nav class="navbar navbar-expand-lg">
+									<div class="navbar-collapse">
+										<ul class="nav menu navbar-nav">
+											<li class="active"><a href="<?php echo esc_url(home_url());?>"><i class="fa fa-home"></i></a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+				            	<?php
 				            endif;
 				            ?>
 				          </nav><!-- #site-navigation -->
