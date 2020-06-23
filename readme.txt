@@ -6,7 +6,7 @@ Tags: blog, news, grid-layout, one-column, two-columns, three-columns, left-side
 Requires at least: 4.5
 Tested up to: 5.4
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -27,6 +27,9 @@ Trendnews is a super clean, elegant and up to date (Following the new trends in 
 wp news includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 == Changelog ==
+
+= 1.0.1 - June 23 2020 =
+* Language POT file added
 
 = 1.0.0 - June 23 2020 =
 * Initial release
